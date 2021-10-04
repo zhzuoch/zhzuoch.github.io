@@ -7,7 +7,7 @@
 
 - 水来，我在水中等你；火来，我在灰烬中等你···
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://www.baidu.com/)
 [Get Started](README)
 
 ![](bgImage.jpg)

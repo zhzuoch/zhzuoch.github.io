@@ -1,5 +1,5 @@
 <!-- 封面 -->
-<!-- ![logo](logo.jpg)//头像logo -->
+![logo](logo.jpg ':size=200x200')
 
 # zhzuoch <small>1.0</small>
 

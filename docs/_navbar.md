@@ -1,6 +1,5 @@
 <!-- 顶部导航栏 -->
-* [指南](/guide)
+* [首页](/README)
 
-* 前端技术
-    * [javascprit](01/javascript/)  
-    * [echarts](01/echarts/)
+* 翻译
+    * [English](en-us/README)

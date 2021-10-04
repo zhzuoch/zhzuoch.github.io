@@ -1,5 +1,5 @@
-# Home
+# 首页
 
-> An awesome project.
+> 我是首页
 
-[多页面体验](/guide)
+[前往介绍](/guide)

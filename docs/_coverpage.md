@@ -1,17 +1,13 @@
 <!-- 封面 -->
+<!-- ![logo](logo.jpg)//头像logo -->
 
-<!-- _coverpage.md -->
+# zhzuoch <small>1.0</small>
 
-![logo](_media/icon.svg)
+> 玉不琢，不成器；人不学，不知道
 
-# docsify <small>3.5</small>
-
-> 一个神奇的文档网站生成器。
-
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- 水来，我在水中等你；火来，我在灰烬中等你···
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](README)
-<!-- [Get Started](#Home)   //onlyCover为false在同一页面时才能使用 -->
+
+![](bgImage.jpg)

@@ -3,6 +3,9 @@
 * [介绍](/guide)
 <!-- 加一个斜杠在是寻找文件夹，不加斜杠是寻找文件 -->
 
+* git
+    * [搭建私有git服务器](util/git/)
+
 * 前端
     * [javascprit](ui/javascript/)  
     * [echarts](ui/echarts/)

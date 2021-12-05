@@ -3,9 +3,14 @@
 * [介绍](/guide)
 <!-- 加一个斜杠在是寻找文件夹，不加斜杠是寻找文件 -->
 
-* git
-    * [搭建私有git服务器](util/git/)
-
+* 中共党史
+    * [中共党史1](zgds/zgds1/)
+    * [中共党史2](zgds/zgds2/)
+    * [中共党史3](zgds/zgds3/)
+* 毛泽东思想
+    * [毛泽东思想1](mzdsx/mzdsx1/)
+    * [毛泽东思想2](mzdsx/mzdsx2/)
+    * [毛泽东思想3](mzdsx/mzdsx3/)
 * 前端
     * [javascprit](ui/javascript/)  
     * [echarts](ui/echarts/)

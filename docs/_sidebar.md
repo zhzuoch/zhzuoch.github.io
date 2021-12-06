@@ -7,6 +7,8 @@
     * [中共党史1](zgds/zgds1/)
     * [中共党史2](zgds/zgds2/)
     * [中共党史3](zgds/zgds3/)
+    * [中共党史4及小结梳理](zgds/zgds4jxjsl/)
+    * [新增党史](zgds/xzds/)
 * 毛泽东思想
     * [毛泽东思想1](mzdsx/mzdsx1/)
     * [毛泽东思想2](mzdsx/mzdsx2/)

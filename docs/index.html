@@ -47,6 +47,21 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+   <!-- support markmap view -->
+   <script>
+    window.$docsify.plugins.push(
+      function (hook, vm) {
+        hook.beforeEach(
+          function (mdstr) {
+            const prefix = document.location.pathname.endsWith('/') ? '' : '..';
+            const markmapUrl = new URL(prefix + 'markmap.html', document.location);
+            const markdownUrl = new URL(prefix + vm.route.file, document.location);
+            return `[🎇MARKMAP](${markmapUrl}?md=${markdownUrl})\n` + mdstr;
+          }
+        );
+      }
+    );
+  </script>
 </body>
 
 </html>

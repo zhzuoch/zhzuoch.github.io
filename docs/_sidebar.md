@@ -7,7 +7,6 @@
     * [辩证法](mkszyzx/bzf/)
     * [认识论](mkszyzx/rsl/)
     * [历史唯物主义](mkszyzx/lswwzy/)
-
 * 中共党史
     * [新手上路](zgds/xssl/)
     * [小试牛刀](zgds/xsnd/)
@@ -24,6 +23,9 @@
     * [毛泽东思想活的灵魂](mzdsx/mzdsxhdlh/)
     * [习题演练](mzdsx/xtyl/)
     * [小结梳理★](mzdsx/xjsl/)
+* 历史人文
+    * [古代史](lsrw/gds/)
+    * [近代史](lsrw/jds/)
 * 自然科学
     * [自然科学1](zrkx/zrkx1/)
     * [自然科学2](zrkx/zrkx2/)

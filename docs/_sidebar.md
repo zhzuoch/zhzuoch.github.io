@@ -23,9 +23,19 @@
     * [毛泽东思想活的灵魂](mzdsx/mzdsxhdlh/)
     * [习题演练](mzdsx/xtyl/)
     * [小结梳理★](mzdsx/xjsl/)
-* 历史人文
-    * [古代史](lsrw/gds/)
-    * [近代史](lsrw/jds/)
+* 中国古代史
+    * [原始社会](zggds/yssh/)
+    * [夏商周时期](zggds/xszsq/)
+    * [秦汉时期](zggds/qhsq/)
+    * [三国魏晋南北朝](zggds/sgwjnbc/)
+    * [隋唐时期](zggds/stsq/)
+    * [宋元时期](zggds/sysq/)
+    * [明清时期](zggds/mqsq/)
+* 中国近代史
+    * [外国资本主义入侵与近代中国半殖民地半封建社会性质](zgjds/wgzbzyrqyjdzgbzmdbfjshxz/)
+    * [对国家出路的早期探索](zgjds/dgjcldzqts/)
+    * [辛亥革命与君主专制帝制的终结](zgjds/xhgmyjzzzdzdzj/)
+    * [新文化运动和五四运动](zgjds/xwhydhwsyd/)
 * 自然科学
     * [自然科学1](zrkx/zrkx1/)
     * [自然科学2](zrkx/zrkx2/)

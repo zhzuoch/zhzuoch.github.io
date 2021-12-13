@@ -13,6 +13,7 @@
     * [炉火纯青](zgds/lhcq/)
     * [上片习题演练](zgds/spxtyl/)
     * [新增党史](zgds/xzds/)
+    * [十九届六中全会](zgds/sjjlzqh/)
     * [下片习题演练](zgds/xpxtyl/)
     * [小结梳理★](zgds/xjsl/)
 * 毛泽东思想

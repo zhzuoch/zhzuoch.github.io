@@ -151,3 +151,84 @@
 - 唐代三绝：<font color=red>张旭草书、李白诗歌、裴旻剑舞</font>
 - 宋四家：<font color=red>蔡襄、苏轼、黄庭坚、米芾</font>
 - 苏门四学士：<font color=red>秦观、黄庭坚、晁补之、张耒</font>
+
+##### 绘画艺术
+
+<table>
+    <tr align="center">
+        <th>朝代</th>
+        <th>人物</th>
+        <th>作品</th>
+        <th>备注</th>
+    </tr>
+    <tr align="center">
+        <td>东晋</td>
+        <td><font color=red>顾恺之</font></td>
+        <td>《女史箴图》《洛神赋图》</td>
+        <td><font color=red>三绝：“才绝、画绝、痴绝”。以形写神。被后世称为<font color=red>“画祖”</font></td>
+    </tr>
+    <tr align="center">
+        <td>隋</td>
+        <td><font color=red>展子虔</font></td>
+        <td><font color=red>《游春图》</font></td>
+        <td><font color=red>现存最早的山水画</font></td>
+    </tr>
+    <tr align="center">
+        <td  rowspan="2">唐</td>
+        <td><font color=red>吴道子</font></td>
+        <td><font color=red>《送子天王图》</font></td>
+        <td><font color=red>被称为“画圣”</font></td>
+    </tr>
+    <tr align="center">
+        <td>阎立本</td>
+        <td>《步辇图》《历代帝王图》</td>
+        <td>建筑家</td>
+    </tr>
+    <tr align="center">
+        <td rowspan="2">北宋</td>
+        <td>张择端</td>
+        <td>《清明上河图》</td>
+        <td>描写的地点：汴梁，季节：秋季</td>
+    </tr>
+    <tr align="center">
+        <td>王希孟</td>
+        <td>《千里江山图》卷</td>
+        <td>此卷表现出祖国山河的雄伟壮观</td>
+    </tr>
+    <tr align="center">
+        <td  rowspan="2">元</td>
+        <td>黄公望</td>
+        <td>《富春山居图》</td>
+        <td>黄公望先做牢后做官在做道士，元四家之首（赵孟頫、吴镇、黄公望、王蒙</td>
+    <tr align="center">
+        <td>赵孟頫</td>
+        <td>《鹊华秋色图》</td>
+        <td>描写的地点是济南，华不注山和鹊山</td>
+    </tr>
+    <tr align="center">
+        <td  rowspan="3">清</td>
+        <td>郑板桥</td>
+        <td>《兰竹石图》</td>
+        <td>擅竹，<font color=red>诗书画被称为“三绝”</font></td>
+    </tr>
+    <tr align="center">
+        <td>张大千、齐白石</td>
+        <td>张大千《长江万里图》、齐白石《墨虾》</td>
+        <td>张大千擅长画荷花。齐白石擅长画虾南张北齐</td>
+    </tr>
+    <tr align="center">
+        <td>徐悲鸿</td>
+        <td>《八骏图》</td>
+        <td>擅长画马。张书旗、柳子谷三人被称为画坛的“金陵三杰”</td>
+    </tr>
+
+- 《洛神赋》画的是曹植与洛神的爱情故事
+- 书法作品《洛神赋》为元代赵孟頫所作
+- 《送子天王图》画的是释迦牟尼出生时，父亲带他去朝拜诸神
+- 吴带当风，曹衣出水。指唐代画家吴道子和北齐画家曹仲达
+- 《步辇图》画的是松赞干布迎娶文成公主
+- 《富春山居图》被称为画中之兰亭
+- 明四家：沈周、文征明、唐寅 和 仇英。又被称为“吴门四杰”
+- 别人笑我太疯癫，我笑他人看不穿（明代唐寅《桃花庵歌》）
+- 清初四僧：石涛、朱耷（八大山人）、髡残、弘仁
+- 石涛美学观念：搜尽奇峰打草稿

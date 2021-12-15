@@ -28,112 +28,112 @@
 ##### 书法名家作品
 
 <table>
-    <tr>
+    <tr align="center">
         <td>秦</td>
         <td>李斯</td>
         <td>小篆</td>
         <td>《泰山刻石》《会稽刻石》等</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td rowspan="2">东汉</td>
         <td><font color=red>张芝</font></td>
         <td>章草</td>
         <td>有<font color=red>“草圣”</font>之称</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>蔡邕</td>
         <td>隶书</td>
         <td>创“飞白书”，《熹平石经》。女儿：蔡文姬（典故：文姬归汉）</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>魏</td>
         <td><font color=red>钟繇[yáo]</font></td>
         <td>楷书</td>
         <td><font color=red>创楷书</font>，《宣示表》、《荐季直表》</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td rowspan="2">东晋</td>
         <td><font color=red>王羲之</font></td>
         <td>行书、草书</td>
         <td>有<font color=red>“书圣”</font>之称，《兰亭序》《快雪时晴帖》《黄庭经》等，<font color=red>《兰亭序》被称为“天下第一行书”</font>
 </td>
     </tr>
-    <tr>
+    <tr align="center">
         <td><font color=red>王献之</font></td>
         <td>行书、草书</td>
         <td>王羲之的儿子。有<font color=red>“小圣”</font>之称，《洛神赋十三行》、《中秋帖》、《淳化阁帖》</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>隋</td>
         <td>智永</td>
         <td>工草书</td>
     	<td>《真书千字文》，典故：<font color=red>退笔成冢</font></td>
     </tr>
-    <tr>
+    <tr align="center">
         <td rowspan="7">唐</td>
         <td>欧阳询</td>
         <td>楷书</td>
         <td>欧体严谨刚劲，《九成宫醴泉铭》、《化度寺碑》</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>虞世南</td>
         <td>楷书</td>
         <td>《孔子庙堂碑》</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>褚遂良</td>
         <td>楷书</td>
         <td>《雁塔圣教序》</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>颜真卿</td>
         <td>楷书、行书</td>
         <td>楷书被称为“颜体”，端庄雄伟，《多宝塔碑》《颜勤礼碑》。行书<font color=red>“《祭侄稿》被称为“天下第二行书”</font></td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>柳公权</td>
         <td>楷书</td>
         <td>柳体风骨（颜筋柳骨），颜指颜真卿，“柳字一字值千金”。《玄秘塔碑》《冯宿碑》《神策军碑》
 </td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>张旭</td>
         <td>草书</td>
         <td>“草圣”，《肚疼贴》《古诗四帖》。杜甫《饮中八仙歌》：“张旭三杯草圣传，脱帽露顶王公前，挥毫落纸如云烟。”</td>
     </tr>
-	<tr>
+	<tr align="center">
         <td>怀素</td>
         <td>狂草</td>
         <td>“颠张醉素”，张指张旭，《自叙帖》、《苦笋帖》</td>
 	</tr>
-	<tr>
+	<tr align="center">
         <td  rowspan="5">北宋</td>
         <td>蔡襄</td>
         <td>楷行草</td>
         <td>《自书诗帖》</td>
 	</tr>
-	<tr>
+	<tr align="center">
         <td><font color=red>苏轼</font></td>
         <td>楷、行</td>
         <td>《赤壁赋》《后赤壁赋》，<font color=red>《黄州寒食帖》被称
 为“天下第三行书”</font></td>
 	</tr>
-	<tr>
+	<tr align="center">
         <td><font color=red>赵佶</font></td>
         <td>楷书</td>
         <td>即<font color=red>宋徽宗</font>，<font color=red>创瘦金体</font>，善长花鸟画</td>
 	</tr>
-	<tr>
+	<tr align="center">
         <td>黄庭坚</td>
         <td>行、草</td>
         <td>《诸上座帖》《经伏波神祠诗》</td>
 	</tr>
-	<tr>
+	<tr align="center">
         <td>米芾</td>
         <td>诸体皆工</td>
         <td>《苕溪诗卷》《蜀素帖》《珊瑚帖》</td>
 	</tr>
-	<tr>
+	<tr align="center">
 		<td>元朝</td>
 		<td>赵孟頫</td>
 		<td>楷书</td>

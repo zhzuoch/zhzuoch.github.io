@@ -3,15 +3,15 @@
 1. 史书
 
 <table width= 100%>
-    <tr>
+    <tr  align="center">
         <td><font color=red>《春秋》</font></td>
         <td>现存<font color=red>我国第一部编年体史书</font>，春秋时期鲁国的编年史，相传为孔子修订</td>
     </tr>
-    <tr>
+    <tr  align="center">
         <td>《左传》</td>
         <td>春秋末年左丘明为解释《春秋》而作，现存第一部叙事详细的编年体史书</br>“春秋三传”：<font color=red>《左氏春秋传》《春秋公羊传》《春秋谷梁传》</font></td>
     </tr>
-    <tr>
+    <tr  align="center">
         <td><font color=red>《国语》</font></td>
         <td><font color=red>现存第一部国别体史书</font></td>
     </tr>
@@ -169,27 +169,27 @@
 4. 中晚唐
 
 <table>
-    <tr>
+    <tr  align="center">
         <td>白居易</td>
         <td>字乐天，号香山居士，“诗魔”“诗王”</td>
         <td>《长恨歌》《琵琶行》《卖炭翁》</td>
-     </tr>
-     <tr>
+     </tr>    
+     <tr  align="center">
         <td>李贺</td>
         <td>字长吉，“诗鬼”</td>
         <td>《雁门太守行》</td>
     </tr>
-    <tr>
+    <tr  align="center">
         <td>刘禹锡</td>
         <td>字梦得</td>
         <td>《陋室铭》《乌衣巷》</td>
     </tr>
-    <tr>
+    <tr  align="center">
         <td>李商隐</td>
         <td>字义山，号玉溪生,被称为七律圣手</td>
         <td>《无题》《锦瑟》</td>
     </tr>
-    <tr>
+    <tr  align="center">
         <td>杜牧</td>
         <td>字牧之，号樊川居士，世称杜樊川</td>
         <td>《泊秦淮》《阿房宫赋》《过华清宫》</td>
@@ -199,44 +199,44 @@
 5. 唐宋八大家
 
 <table>
-    <tr>
+    <tr  align="center">
         <td rowspan="2">唐</td>
         <td><font color=red>韩愈</font></td>
         <td>字退之，世称韩昌黎。唐代古文运动（反对骈文）倡导者，苏轼称其为“文起八代之衰”</td>
         <td><font color=red>《师说》《马说》</font></td>
     </tr>
-    <tr>
+    <tr  align="center">
         <td><font color=red>柳宗元</font></td>
         <td>字子厚，人称“柳河东”（山西河东人）“柳柳州”（任职柳州刺史），喜欢写寓言故事</td>
         <td><font color=red>《永州八记》《黔之驴》《小石潭记》《捕蛇者说》</font></td>
     </tr>
-    <tr>
+    <tr  align="center">
         <td rowspan="6">宋</td>
         <td><font color=red>欧阳修</font></td>
         <td>字永叔，号醉翁，又号六一居士</td>
         <td><font color=red>《醉翁亭记》</font></td>
     </tr>
-    <tr>
+    <tr  align="center">
         <td>苏洵</td>
         <td>苏洵（1009年5月22日—1066年5月21日），字明允，自号老泉，汉族，眉州眉山（今属四川眉山）人</td>
         <td>《六国论》</td>
     </tr>
-    <tr>
+    <tr  align="center">
         <td><font color=red>苏轼</font></td>
         <td>字子瞻，号东坡居士（乌台诗案被贬黄州，在东坡耕作），宋词豪放派代表</td>
         <td><font color=red>《赤壁赋》《江城子》《念奴娇》</font>（<font color=red>《水调歌头》</font>中秋节，思念弟弟苏辙）</td>
     </tr>
-    <tr>
+    <tr  align="center">
         <td>苏辙</td>
         <td><font color=red>字子由</font>，自号颍滨遗老</td>
         <td>《黄州快哉亭记》《上枢密韩太尉书》</td>
     </tr>
-    <tr>
+    <tr  align="center">
         <td><font color=red>王安石</font></td>
         <td>字介甫，号半山，封荆国公，世人又称王荆公、<font color=red>临川先生</font>（江西临川人）。主持“熙宁变法”（又称王安石变法）</td>
         <td>（<font color=red>《元日》</font>描写春节，屠苏指酒）<font color=red>《桂枝香·金陵怀古》《伤仲永》《登飞来峰》</font></td>
     </tr>
-    <tr>
+    <tr  align="center">
         <td>曾巩</td>
         <td>字子固，世称南丰先生</td>
         <td>《墨池记》</td>
@@ -246,49 +246,49 @@
 6. 宋词
 
 <table>
-    <tr>
+    <tr align="center">
         <td rowspan="5">豪放派</td>
         <td><font color=red>苏轼</font></td>
         <td>字子瞻，号东坡居士</td>
         <td><font color=red>《赤壁赋》《江城子》</font></td>
     </tr>
-    <tr>
+    <tr align="center">
         <td><font color=red>范仲淹</font></td>
         <td>字希文，世称范文正公</td>
         <td>《岳阳楼记》</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td><font color=red>辛弃疾</font></td>
         <td>字幼安，别号稼轩，又被称为“词中之龙”</td>
         <td>《永遇乐》《青玉案·元夕》（《美芹十论》军事论著）</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td><font color=red>岳飞</font></td>
         <td>字鹏举</td>
         <td>《满江红》《小重山》</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td><font color=red>陆游</font></td>
         <td>字务观，号放翁</td>
         <td>《示儿》(<font color=red>《钗头凤》</font>陆游与唐婉的爱情悲剧</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td rowspan="4">婉约派</td>
         <td>李煜</td>
         <td>字重光，初名从嘉，称“千古词帝”</td>
         <td><font color=red>《虞美人》</font>《浪淘沙》</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td><font color=red>柳永</font></td>
         <td>原名三变，“凡有井水饮处，皆能歌柳词”。典故：奉旨填词</td>
         <td>《雨霖铃》</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td>秦观</td>
         <td>字少游，号淮海居士</td>
         <td>《鹊桥仙》</td>
     </tr>
-    <tr>
+    <tr align="center">
         <td><font color=red>李清照</font></td>
         <td>号易安居士，“千古第一才女”，<font color=red>与辛弃疾并称“济南二安”</font>，“三瘦词人”。典故：赌书泼茶</td>
         <td>《一剪梅》《声声慢》《醉花阴》</td>

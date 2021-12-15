@@ -42,7 +42,7 @@
     * [中国古代土地制度的变迁](zgwh/zggdtdzddbq/)
     * [古代中国的思想](zgwh/gdzgdsx/)
     * [文学](zgwh/wx/)
-    * [选官制度](zgwh/xg/)
+    * [选官制度](zgwh/xgzd/)
     * [现当代文学](zgwh/xddwx/)
     * [书画艺术](zgwh/shys/)
     * [戏曲艺术](zgwh/xqys/)

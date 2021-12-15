@@ -342,7 +342,7 @@
    - <font color=red>《金瓶梅》</font>：兰陵笑笑生著，<font color=red>四大奇书之首</font>
    - <font color=red>《西游记》</font>：吴承恩著，我国长篇神魔小说。使神魔皆有人情，精魅亦通世故
    - <font color=red>《水浒传》</font>：施耐庵著，<font color=red>我国第一部用通俗口语写成的长篇小说</font>，北宋末年，农民起义
-   - 《三国演义》：罗贯中著，以陈寿《三国志》为蓝本，<font color=red>我国第一部长篇历史小说</font>， <font color=red>章回小说的开山之作</font>。文不甚深，言不甚俗
+   - <font color=red>《三国演义》</font>：罗贯中著，以陈寿《三国志》为蓝本，<font color=red>我国第一部长篇历史小说</font>， <font color=red>章回小说的开山之作</font>。文不甚深，言不甚俗
 4. 清代小说
    - 《红楼梦》：前80回曹雪芹著，后40回高鹗续，<font color=red>中国古典小说的巅峰</font>，<font color=red>“中国封建社会的百科全书”</font>。字字看来皆是血，十年辛苦不寻常
    - 《聊斋志异》：蒲松龄，字留仙，号柳泉居士，<font color=red>世界短篇小说之王</font>，古典文言短篇小说的巅峰。写鬼写妖高人一等，刺贪刺虐入木三分。鬼狐有性格，笑骂成文章

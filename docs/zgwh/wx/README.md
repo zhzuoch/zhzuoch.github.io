@@ -301,7 +301,7 @@
    - <font color=red>《资治通鉴》是一部编年体的通史</font>
 8. 元曲四大家
 
-| <font color=red>元曲四大家</font>（郑关白马） |                         代表作及人物                         |
+| <font color=red>元曲四大家</font> |                         代表作及人物                         |
 | :-------------------------------------------: | :----------------------------------------------------------: |
 |                    关汉卿                     | （<font color=red>《窦娥冤》</font>窦娥）（<font color=red>《救风尘》</font>赵盼儿）（<font color=red>《望江亭》</font>谭记儿） |
 |                    马致远                     | （<font color=red>《汉宫秋》</font>王昭君和汉元帝）(<font color=red>《青衫泪》</font>以白居易<font color=red>《琵琶行》</font>为基本内容，白居易和琵琶女裴兴奴） |

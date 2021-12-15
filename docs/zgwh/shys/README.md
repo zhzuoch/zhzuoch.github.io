@@ -115,8 +115,7 @@
 	<tr align="center">
         <td><font color=red>苏轼</font></td>
         <td>楷、行</td>
-        <td>《赤壁赋》《后赤壁赋》，<font color=red>《黄州寒食帖》被称
-为“天下第三行书”</font></td>
+        <td>《赤壁赋》《后赤壁赋》，<font color=red>《黄州寒食帖》被称为“天下第三行书”</font></td>
 	</tr>
 	<tr align="center">
         <td><font color=red>赵佶</font></td>

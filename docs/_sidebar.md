@@ -48,7 +48,7 @@
     * [戏曲艺术](zgwh/xqys/)
     * [农学和工艺](zgwh/nxhgy/)
     * [医学](zgwh/yx/)
-    * [古人的年龄代称](zgwh/grdnldc)
+    * [古代年龄的代称](zgwh/gdnldbc/)
 * 自然科学
     * [自然科学1](zrkx/zrkx1/)
     * [自然科学2](zrkx/zrkx2/)

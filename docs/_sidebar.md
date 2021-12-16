@@ -49,7 +49,7 @@
     * [农学和工艺](zgwh/nxhgy/)
     * [医学](zgwh/yx/)
     * [古代年龄的代称](zgwh/gdnldbc/)
+* [历史人文习题演练](/lsrw)
 * 自然科学
-    * [自然科学1](zrkx/zrkx1/)
-    * [自然科学2](zrkx/zrkx2/)
+    * [航天技术](zrkx/zrkx1/)
 * [友情链接](/guide)

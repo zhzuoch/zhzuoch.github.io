@@ -51,6 +51,5 @@
     * [古代年龄的代称](zgwh/gdnldbc/)
     * [习题演练](zgwh/xtyl/)
 * 自然科学
-    * [自然科学1](zrkx/zrkx1/)
-    * [自然科学2](zrkx/zrkx2/)
+    * [航天技术](zrkx/zrkx1/)
 * [友情链接](/guide)

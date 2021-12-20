@@ -55,6 +55,7 @@
    - <font color=red>唐代唐太宗时期，设立安西都护府</font>
    - <font color=red>唐代武则天时期，设立北庭都护府</font>
    - <font color=red>清代乾隆时期，平定大小和卓</font>
+- <font color=red>新疆民族古典音乐：《十二木卡姆》</font>
 
 ##### 东汉（25-220年）
 

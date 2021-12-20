@@ -47,7 +47,7 @@
    B.完善社会主义市场经济体制  
    C.农村土地承包经营  
    D.深化党和国家机构改革  
-   <font color=orange>A项全面深化改革是十八届三中全会</font>
+   <font color=orange>解析A项全面深化改革是十八届三中全会</font>
 
 9. 下列不是党的十九届三中全会构建的机构的是 <font color=red>D</font>  
    A.生态环境部  
@@ -133,4 +133,4 @@
     B.① ②  
     C.① ② ④  
     D.① ③ ④  
-    <font color=orange>解析：稳投资，拓展投资空间</font>
+    <font color=orange>解析：②稳投资，拓展投资空间</font>

@@ -4,12 +4,6 @@
 * 时政梳理
     * [十九届五中全会及十四五规划](szsl/sjjwzqhjsswgh/)
     * [中央一号文件](szsl/zyyhwj/)
-* 马克思主义哲学
-    * [哲学概论](mkszyzx/zxgl/)
-    * [唯物论](mkszyzx/wwl/)
-    * [辩证法](mkszyzx/bzf/)
-    * [认识论](mkszyzx/rsl/)
-    * [历史唯物主义](mkszyzx/lswwzy/)
 * 中共党史
     * [新手上路](zgds/xssl/)
     * [小试牛刀](zgds/xsnd/)
@@ -19,6 +13,14 @@
     * [十九届六中全会](zgds/sjjlzqh/)
     * [下片习题演练](zgds/xpxtyl/)
     * [小结梳理★](zgds/xjsl/)
+* 自然科学
+    * [航天技术](zrkx/zrkx1/)
+* 马克思主义哲学
+    * [哲学概论](mkszyzx/zxgl/)
+    * [唯物论](mkszyzx/wwl/)
+    * [辩证法](mkszyzx/bzf/)
+    * [认识论](mkszyzx/rsl/)
+    * [历史唯物主义](mkszyzx/lswwzy/)
 * 毛泽东思想
     * [毛泽东思想形成与发展](mzdsx/mzdsxxcyfz/)
     * [新民主主义革命理论](mzdsx/xmzzygmll/)
@@ -53,6 +55,4 @@
     * [医学](zgwh/yx/)
     * [古代年龄的代称](zgwh/gdnldbc/)
     * [习题演练](zgwh/xtyl/)
-* 自然科学
-    * [航天技术](zrkx/zrkx1/)
 * [友情链接](/guide)

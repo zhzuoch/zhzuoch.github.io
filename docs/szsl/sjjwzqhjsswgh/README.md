@@ -177,7 +177,8 @@
     B.政策标准  
     C.生产力标准  
     D.共同文化标准  
-    <font color=orange>社会主义本质：消灭剥削，消除两极分化，最终达到共同富裕</font>  
+    <font color=orange>社会主义本质要求：消灭剥削，消除两极分化，最终达到共同富裕</font>  
+    <font color=orange>习大大核心论述社会主义本质要求：共同富裕</font>  
 
 24. 【多选】中国式现代化的基本特征是 <font color="red">ABCD</font>  
     A.我国现代化是人口规模巨大的现代化  

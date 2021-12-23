@@ -8,7 +8,7 @@
     * [中央经济工作会议](szsl/zyjjgzhy/)
     * [中央农村工作会议](szsl/zyncgzhy/)
     * [中央政法工作会议](szsl/zyzfgzhy/)
-    * [两会及相关报告](szsl/lhjxgbg/)
+    * [2021两会](szsl/2021lh/)
 * 中共党史
     * [新手上路](zgds/xssl/)
     * [小试牛刀](zgds/xsnd/)

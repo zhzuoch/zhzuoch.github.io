@@ -100,4 +100,4 @@
 - 明末清初三大思想家：<font color=red>黄宗羲、顾炎武、王夫之</font>
 - 王夫之又被称为船山先生
 
-[文学](lsrw/zgwh/wx/)
+[文学](lsrw/zgwh/wx)

@@ -233,4 +233,4 @@
 - 清初四僧：<font color=red>石涛、朱耷（八大山人）、髡残、弘仁</font>
 - 石涛美学观念：搜尽奇峰打草稿
 
-[戏曲艺术](lsrw/zgwh/xqys/)
+[戏曲艺术](lsrw/zgwh/xqys)

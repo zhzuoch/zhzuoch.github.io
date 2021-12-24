@@ -14,4 +14,4 @@
    - 工人阶级开始登上历史舞台，促进了马克思主义的传播，是一次彻底的反帝反封建的革命运动，<font color=red>标志着新民主主义革命的开端</font>
    - 五四运动是中国人民彻底的反帝反封建的爱国运动。<font color=red>五四运动是中国旧民主主义革命到新民主主义革命的转折点</font>
 
-[中央集权封建制度的形成与发展](lsrw/zgwh/zyjqfjzddxcyfz/)
+[中央集权封建制度的形成与发展](lsrw/zgwh/zyjqfjzddxcyfz)

@@ -62,4 +62,4 @@
 5. <font color=red>黄道婆</font>改进棉纺织技术。被称为<font color=red>“布业始祖”</font>
 6. 元世祖颁布《农桑辑要》典籍
 
-[明清时期](lsrw/zggds/mqsq/)
+[明清时期](lsrw/zggds/mqsq)

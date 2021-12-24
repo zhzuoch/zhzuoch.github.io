@@ -34,4 +34,4 @@
 6. 性质：资产阶级改良运动
 7. 戊戌六君子：谭嗣同、林旭、杨深秀、刘光第、杨锐、康广仁
 
-[辛亥革命与君主专制帝制的终结](lsrw/zgjds/xhgmyjzzzdzdzj/)
+[辛亥革命与君主专制帝制的终结](lsrw/zgjds/xhgmyjzzzdzdzj)

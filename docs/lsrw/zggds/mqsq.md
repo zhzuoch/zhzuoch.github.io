@@ -33,4 +33,4 @@
    - 明清时，积极推行“重农抑商”政策，严格限制商人活动
    - 强行“海禁”政策
 
-[外国资本主义入侵与近代中国半殖民地半封建社会性质](lsrw/zgjds/wgzbzyrqyjdzgbzmdbfjshxz/)
+[外国资本主义入侵与近代中国半殖民地半封建社会性质](lsrw/zgjds/wgzbzyrqyjdzgbzmdbfjshxz)

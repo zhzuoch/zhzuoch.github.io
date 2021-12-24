@@ -33,4 +33,4 @@
 
 - 连中三元：连中解元、会元、状元
 
-[现当代文学](lsrw/zgwh/xddwx/)
+[现当代文学](lsrw/zgwh/xddwx)

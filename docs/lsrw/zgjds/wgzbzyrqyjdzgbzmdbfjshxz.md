@@ -37,4 +37,4 @@
 - 香港：香岛、东方之珠，区旗为紫荆花
 - 澳门：濠镜、海上花园，区旗为莲花
 
-[对国家出路的早期探索](lsrw/zgjds/dgjcldzqts/)
+[对国家出路的早期探索](lsrw/zgjds/dgjcldzqts)

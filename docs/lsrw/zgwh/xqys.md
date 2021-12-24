@@ -73,4 +73,4 @@
     </tr>
 </table>
 
-[农学和工艺](lsrw/zgwh/nxhgy/)
+[农学和工艺](lsrw/zgwh/nxhgy)

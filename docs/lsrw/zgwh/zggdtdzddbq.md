@@ -35,4 +35,4 @@
 2. 康熙帝：滋生人丁，永不加赋
 3. 雍正帝推行<font color=red>“摊丁入亩”</font>，征收统一的地丁银。废除人头税，促进农业发展
 
-[古代中国的思想](lsrw/zgwh/gdzgdsx/)
+[古代中国的思想](lsrw/zgwh/gdzgdsx)

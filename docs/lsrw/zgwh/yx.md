@@ -13,4 +13,4 @@
 
 - 中医四大经典：<font color=red>《神农本草经》《黄帝内经》《伤寒杂病论》《难经》</font>
 
-[古代年龄的代称](lsrw/zgwh/gdnlddc/)
+[古代年龄的代称](lsrw/zgwh/gdnlddc)

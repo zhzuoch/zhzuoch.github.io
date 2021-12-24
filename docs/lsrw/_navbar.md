@@ -1,5 +1,5 @@
 <!-- 顶部导航栏 -->
-* [首页](lsrw/README)
+* [习题演练](lsrw/guide)
 
 * 其他
     * [公考常识](/README)  

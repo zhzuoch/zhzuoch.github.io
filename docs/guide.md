@@ -23,4 +23,6 @@
 
 [2021.05.21《西藏和平解放与繁荣发展》白皮书](http://www.gov.cn/zhengce/2021-05/21/content_5609821.htm)
 
+[2021.05.02习大大与青年的故事](http://www.gov.cn/xinwen/2021-05/02/content_5604475.htm)
+
 [回到首页](/README) 

@@ -5,6 +5,7 @@
     * [《把握新发展阶段，贯彻新发展理念，构建新发展格局》](szsl/bwxfzjdgcxfzlngjxfzgj)
     * [会上的讲话](szsl/hsdjh)
     * [白皮书](szsl/bps)
+    * [关于青年工作重要论述综述](szsl/gyqngzzylszs)
 * 习题演练
     * [十九届五中全会及十四五规划](xtyl/sjjwzqhjsswgh)
     * [中央一号文件](xtyl/zyyhwj)

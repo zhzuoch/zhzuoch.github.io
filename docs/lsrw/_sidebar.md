@@ -14,6 +14,7 @@
     * [对国家出路的早期探索](lsrw/zgjds/dgjcldzqts)
     * [辛亥革命与君主专制帝制的终结](lsrw/zgjds/xhgmyjzzzdzdzj)
     * [新文化运动和五四运动](lsrw/zgjds/xwhydhwsyd)
+    * [图表详解](lsrw/zgjds/tbxj)
 * 中国文化
     * [中央集权封建制度的形成与发展](lsrw/zgwh/zyjqfjzddxcyfz)
     * [中国古代土地制度的变迁](lsrw/zgwh/zggdtdzddbq)

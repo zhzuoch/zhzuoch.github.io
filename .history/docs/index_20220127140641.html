@@ -65,7 +65,7 @@
 
 
 
-  <!-- 解决GitHub page显示数学公式问题-->
+  <!-- support katex following https://github.com/upupming/docsify-katex#usage-->
   <script defer src="https://cdn.bootcdn.net/ajax/libs/KaTeX/0.15.2/katex.min.js"></script>
   <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/KaTeX/0.15.2/katex.min.css">
   <script>
@@ -101,6 +101,16 @@
         })
       }
     );
+  </script>
+
+
+  <!-- code syntax  https://docsify.js.org/#/language-highlight-->
+  <script src="https://cdn.bootcdn.net/ajax/libs/prism/1.26.0/components/prism-nasm.min.js"></script>
+  <script src="https://cdn.bootcdn.net/ajax/libs/prism/1.26.0/components/prism-python.min.js"></script>
+  <script src="https://cdn.bootcdn.net/ajax/libs/prism/1.26.0/components/prism-matlab.min.js"></script>
+  <script>
+    //use nasm as syntax for assembly
+    Prism.languages.assembly = Prism.languages.nasm
   </script>
 </body>
 

@@ -8,6 +8,17 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- 解决github pages中latex公式无法正确显示的问题 -->
+  <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+    type="text/javascript"></script>
+  <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script> -->
 </head>
 
 <body>
@@ -65,7 +76,7 @@
 
 
 
-  <!-- 解决GitHub page显示数学公式问题-->
+  <!-- support katex following https://github.com/upupming/docsify-katex#usage-->
   <script defer src="https://cdn.bootcdn.net/ajax/libs/KaTeX/0.15.2/katex.min.js"></script>
   <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/KaTeX/0.15.2/katex.min.css">
   <script>
@@ -102,6 +113,7 @@
       }
     );
   </script>
+
 </body>
 
 </html>

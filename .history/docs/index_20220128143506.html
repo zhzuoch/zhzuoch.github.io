@@ -63,43 +63,12 @@
     );
   </script>
 
+
+
   <!-- 解决GitHub page显示数学公式问题-->
   <script defer src="https://cdn.bootcdn.net/ajax/libs/KaTeX/0.15.2/katex.min.js"></script>
   <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/KaTeX/0.15.2/katex.min.css">
-  <script>
-    window.$docsify.plugins.push(
-      function (hook, vm) {
-        let blocks = [];
-        hook.beforeEach(function (mdstr) {
-          for (const r of mdstr.matchAll(/[^\\]\$\$([\s\S]*?[^\\])\$\$/g)) {
-            mdstr = mdstr.replace(r[0], `[math[${blocks.length}]]`)
-            blocks.push([r[0], r[1], true])
-          }
-          for (const r of mdstr.matchAll(/\$(.*?[^\\])\$/g)) {
-            mdstr = mdstr.replace(r[0], `[math[${blocks.length}]]`)
-            blocks.push([r[0], r[1], false])
-          }
-          return mdstr
-        });
-        hook.afterEach(function (html, next) {
-          for (const index in blocks) {
-            const [full, tex, display] = blocks[index];
-            let rendered = ""
-            if (typeof katex !== "undefined") {
-              rendered = katex.renderToString(tex, {
-                throwOnError: false,
-                displayMode: display,
-              })
-            } else {
-              rendered = `<a title="${full}">[${display ? "block" : "inline"}math[${blocks.length - index}]]</a>`;
-            }
-            html = html.replace(`[math[${index}]]`, rendered)
-          }
-          next(html)
-        })
-      }
-    );
-  </script>
+  
 </body>
 
 </html>

@@ -1,9 +1,9 @@
-<!-- * 马克思主义哲学
+* 马克思主义哲学
     * [哲学概论](mzt/README)
     * [唯物论](mzt/mkszyzx/wwl)
     * [辩证法](mzt/mkszyzx/bzf)
     * [认识论](mzt/mkszyzx/rsl)
-    * [历史唯物主义](mzt/mkszyzx/lswwzy) -->
+    * [历史唯物主义](mzt/mkszyzx/lswwzy)
 * 中共党史
     * [新手上路](mzt/zgds/xssl)
     * [小试牛刀](mzt/zgds/xsnd)
